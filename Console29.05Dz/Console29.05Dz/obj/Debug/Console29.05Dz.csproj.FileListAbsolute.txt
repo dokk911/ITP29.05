@@ -1,0 +1,7 @@
+E:\C#\Console29.05Dz\Console29.05Dz\bin\Debug\Console29.05Dz.exe.config
+E:\C#\Console29.05Dz\Console29.05Dz\bin\Debug\Console29.05Dz.exe
+E:\C#\Console29.05Dz\Console29.05Dz\bin\Debug\Console29.05Dz.pdb
+E:\C#\Console29.05Dz\Console29.05Dz\obj\Debug\Console29.05Dz.csprojAssemblyReference.cache
+E:\C#\Console29.05Dz\Console29.05Dz\obj\Debug\Console29.05Dz.csproj.CoreCompileInputs.cache
+E:\C#\Console29.05Dz\Console29.05Dz\obj\Debug\Console29.05Dz.exe
+E:\C#\Console29.05Dz\Console29.05Dz\obj\Debug\Console29.05Dz.pdb
